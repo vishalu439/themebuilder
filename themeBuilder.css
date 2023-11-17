@@ -1,0 +1,198 @@
+.theme-builder-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #f9f6ef;
+    width: 1440px;
+    height: 60px;
+  }
+  .theme-builder-item {
+    position: absolute;
+    top: 23.15px;
+    left: 31.15px;
+    width: 12.7px;
+    height: 11.85px;
+  }
+  .theme-1,
+  .themes {
+    font-size: var(--font-size-5xl);
+    font-weight: 600;
+  }
+  .themes {
+    position: absolute;
+    top: 84px;
+    left: 32px;
+  }
+  .theme-1 {
+    top: 199px;
+  }
+  .choose-a-theme,
+  .theme-1,
+  .theme-2 {
+    position: absolute;
+    left: 32px;
+  }
+  .theme-2 {
+    top: 695px;
+    font-size: var(--font-size-5xl);
+    font-weight: 600;
+  }
+  .choose-a-theme {
+    top: 128px;
+  }
+  .this-theme-is {
+    margin: 0;
+  }
+  .this-theme-is-container,
+  .this-theme-is-container1 {
+    position: absolute;
+    top: 243px;
+    left: 32px;
+  }
+  .this-theme-is-container1 {
+    top: 739px;
+  }
+  .rectangle-div,
+  .theme-builder-child1,
+  .theme-builder-child2,
+  .theme-builder-inner {
+    position: absolute;
+    top: 339px;
+    left: 32px;
+    border-radius: var(--br-8xs);
+    width: 133px;
+    height: 42px;
+  }
+  .rectangle-div,
+  .theme-builder-child1,
+  .theme-builder-child2 {
+    top: 835px;
+  }
+  .theme-builder-child1,
+  .theme-builder-child2 {
+    top: 339px;
+    left: 181px;
+    background: linear-gradient(90deg, #ffc28c, #ea60d5 49.48%, #7d8dff);
+    width: 117px;
+  }
+  .theme-builder-child2 {
+    top: 835px;
+  }
+  .preview,
+  .preview1,
+  .select,
+  .select1 {
+    position: absolute;
+    top: 348px;
+    left: 83px;
+  }
+  .preview1,
+  .select,
+  .select1 {
+    top: 844px;
+  }
+  .select,
+  .select1 {
+    top: 348px;
+    left: 231px;
+    font-weight: 600;
+    color: var(--color-white);
+  }
+  .select1 {
+    top: 844px;
+  }
+  .fi-6329893-icon,
+  .fi-6329893-icon1 {
+    position: absolute;
+    top: 348px;
+    left: 50px;
+    width: 25px;
+    height: 25px;
+    overflow: hidden;
+  }
+  .fi-6329893-icon1 {
+    top: 844px;
+  }
+  .fi-2984960-icon,
+  .fi-2984960-icon1 {
+    position: absolute;
+    top: 348px;
+    left: 199px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .fi-2984960-icon1 {
+    top: 844px;
+  }
+  .theme-builder-child3,
+  .theme-builder-child4,
+  .theme-builder-child5,
+  .theme-builder-child6 {
+    position: absolute;
+    top: 199px;
+    left: 499px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-whitesmoke);
+    width: 559px;
+    height: 400px;
+  }
+  .theme-builder-child4,
+  .theme-builder-child5,
+  .theme-builder-child6 {
+    top: 695px;
+  }
+  .theme-builder-child5,
+  .theme-builder-child6 {
+    top: 199px;
+    left: 1082px;
+    width: 326px;
+  }
+  .theme-builder-child6 {
+    top: 695px;
+  }
+  .customer-preview-img-desktop-container,
+  .customer-preview-img-desktop-container1 {
+    position: absolute;
+    top: 375px;
+    left: 689px;
+    text-align: center;
+  }
+  .customer-preview-img-desktop-container1 {
+    top: 871px;
+  }
+  .customer-preview-img-mobile-container,
+  .customer-preview-img-mobile-container1 {
+    position: absolute;
+    top: 375px;
+    left: 1155px;
+    text-align: center;
+  }
+  .customer-preview-img-mobile-container1 {
+    top: 871px;
+  }
+  .line-div,
+  .theme-builder-child7 {
+    position: absolute;
+    top: 646.5px;
+    left: -0.5px;
+    border-top: 1px solid var(--color-gainsboro);
+    box-sizing: border-box;
+    width: 1441px;
+    height: 1px;
+  }
+  .theme-builder-child7 {
+    top: 174.5px;
+  }
+  .theme-builder {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1142px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-darkslategray);
+    font-family: var(--font-poppins);
+  }
+  
